@@ -11,3 +11,8 @@ This is blog
 ## Author
 **Doston Hamrakulov**
 >*student at Riga Technical University*
+
+## Visit my blog
+
+<a href="https://hamrakulov101.firebaseapp.com/">Be different</a>
+
